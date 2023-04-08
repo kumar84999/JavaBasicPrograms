@@ -1,0 +1,8 @@
+package com.numbers;
+
+public class FinalReverseWithoutUsingInbuiltFunction {
+	public static void main(String[] args) {
+		String str="mahaansh arjun"
+	}
+
+}
